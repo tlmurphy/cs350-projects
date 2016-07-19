@@ -1,0 +1,4 @@
+000001                   24122                   T-Mobile                   V                        -T-
+000002                   09890                   T-Mobile                   E                        -TD
+000003                   78898                   Others                     E                        ---
+000004                   65486                   T-Mobile                   E                        -T-
